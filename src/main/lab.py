@@ -48,6 +48,9 @@ class Dog(Animal):
     """
 
 class Cat(Animal):
+
+    def make_sound(self):
+        return "Meow!"
     """
     Class representing a cat, inheriting from Animal.
     """
