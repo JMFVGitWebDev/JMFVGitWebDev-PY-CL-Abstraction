@@ -34,6 +34,9 @@ class Dog(Animal):
     """
     To do: Write a make_sound() method for the Dog class to make the dog bark.
 
+    def make_sound():
+        return "Woof!"
+
     Instructions:
     - Implement the make_sound() method to return the sound made by the dog, which is "Woof!".
     
